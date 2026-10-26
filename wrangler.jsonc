@@ -1,3 +1,4 @@
+
 {
   "name": "ccis673-cloud-os-assignment1",
   "compatibility_date": "2026-10-26",
@@ -5,5 +6,8 @@
     "directory": "./",
     "html_handling": "auto-trailing-slash",
     "not_found_handling": "404-page"
+  },
+  "previews": {
+    "enabled": true
   }
 }
